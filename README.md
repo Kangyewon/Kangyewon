@@ -5,6 +5,9 @@
 <a href="https://www.instagram.com/kangye.won/" target="_blank">
   <img src="https://img.shields.io/badge/kangye.won-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
+<a href="https://discord.com/login" target="_blank">
+  <img src="https://img.shields.io/badge/yenyen9998-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
+</a>
 
 
 #### 💻 Tech Stack
